@@ -28,8 +28,8 @@ POST http://127.0.0.1:port/api/send_text
 ```json
 {
     "type": 10266,
-    "conversation_id": "R:10955919327227306",
-    "content": "你好，888"
+    "conversation_id": "xxxx",
+    "content": "你好"
 }
 ```
 
